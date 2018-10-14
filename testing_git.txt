@@ -1,2 +1,3 @@
 FIRST_LINE
 Added from git
+This is 4th line
