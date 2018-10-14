@@ -2,3 +2,4 @@ FIRST_LINE
 Added from git
 This is third line
 This is 4th line
+This will advance our branch
